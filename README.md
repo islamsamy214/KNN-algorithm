@@ -1,0 +1,2 @@
+#KNN-algorithm
+in this example i supposed i have 3 weeders snoop dog,gezzi, and adel shakal "it's an egyption influencer BTW", and each one has a taste in the drugs, so i want to the taste distance between them and any one want to share drugs with them so when any one could try new drug in the future i can recommend it to the nearst ones to him, so i decided to use KNN algorithm
